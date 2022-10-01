@@ -1,3 +1,2 @@
-
 print("HELLO WORLD")
-print("Windows SCUKS")
+print("BYE WORLD")
